@@ -12,7 +12,7 @@
 
 - **[sms-activate](https://sms-activate.org/?ref=5286422)** 首选
 
-Sms-activate支持中文语言，提供185个国家的虚拟电话号码。1$起充，如果没有受到验证短信将自动退款，支持微信、支付宝、银联银行卡充值。Sms-activate的业务还有虚拟号码的长期租赁、呼叫转移连接、电话验证等等。
+Sms-activate支持中文语言，提供185个国家的虚拟电话号码，注册ChatGPT、谷歌套件、微信、快手、微博、Telegram、Instagram 等等等非常友好。1$起充，如果没有受到验证短信将自动退款，支持微信、支付宝、银联银行卡充值。Sms-activate的业务还有虚拟号码的长期租赁、呼叫转移连接、电话验证等等。
 
 ![](https://github.com/jtdh/sms/assets/99425739/6ad2bf19-e930-40e5-b0db-be56ecbf4813)
 
