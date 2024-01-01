@@ -79,7 +79,7 @@ Receiveasms为你提供美国、巴西、波兰、加拿大、英国、法国、
 ![](https://github.com/jtdh/sms/assets/99425739/32c5b139-0d2f-42bc-bd2d-4c7cc8d7ffa4)
 
 
-### **推荐优秀的短信接码平台**
+### **[推荐优秀的短信接码平台](https://hlxijue.com/other_discounts/sms.html)**
 
  ** sms-activate **
 180 多个国家/地区 — 我们不断扩大我们的地理范围
